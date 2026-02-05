@@ -1,0 +1,11 @@
+[MASTER]
+# Ignore frontend vendor directories
+ignore=src/frontend/node_modules,src/frontend/**/node_modules
+
+[MESSAGES CONTROL]
+# Disable some noisy checks for third-party/vendor files and tests
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    too-few-public-methods

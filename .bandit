@@ -1,0 +1,14 @@
+[bandit]
+# Skip test files to avoid assert warnings
+exclude_dirs: ['tests', 'src/frontend']
+
+# Adjust severity levels (default is 1-5)
+# 1=LOW, 2=MEDIUM, 3=HIGH
+skips: ['B101']  # Skip assert warnings in all files
+
+[bandit.assert_used]
+# Completely skip B101 (assert) check
+skips: ['B101']
+
+[bandit.blacklist_calls]
+bad_names: ['exec', 'eval', 'pickle.loads', 'pickle.dumps', 'marshal.loads']

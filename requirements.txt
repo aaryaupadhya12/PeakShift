@@ -1,0 +1,18 @@
+# Core backend dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+sendgrid
+fastapi
+
+# Testing and coverage
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.1
+
+# Code quality and formatting
+black==23.10.1
+flake8==6.1.0
