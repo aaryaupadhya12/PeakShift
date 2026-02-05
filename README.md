@@ -3,14 +3,12 @@
 
 At retail stores, management staff offer to work in the stores during very busy times like weekends and holidays. This is an app which faciliitates this initiative
 
-This repository contains the source code and documentation for the "Helping hands" software project, developed as part of the UE23CS341A course at PES University.
-
 ## 🧑‍💻 Development Team (TRM)
 
-- [@aaryaupadhya12](https://github.com/pes1ug23am006-dot) - Scrum Master
-- [@Anshullmudyavar1](https://github.com/Anshullmudyavar1) - Developer Team
-- [@aaravadarsh18](https://github.com/aaravadarsh18) - Developer Team
-- [@AHaveeshKumar](https://github.com/AHaveeshKumar) - Developer Team
+- [@aaryaupadhya12](https://github.com/pes1ug23am006-dot) 
+- [@Anshullmudyavar1](https://github.com/Anshullmudyavar1) 
+- [@aaravadarsh18](https://github.com/aaravadarsh18) 
+- [@AHaveeshKumar](https://github.com/AHaveeshKumar) 
 
 
 
@@ -21,12 +19,6 @@ This repository contains the source code and documentation for the "Helping hand
 - Node.js 24.11.0
 
 ### Installation
-1. Clone the repository
-   ```bash
-   git clone https://github.com/pestechnology/PESU_RR_AIML_A_P19_Helping_hands_software_TRM.git
-   cd PESU_RR_AIML_A_P19_Helping_hands_software_TRM
-   ```
-
 2. Install dependencies
    ```bash
    pip install -r requiremnts.txt
@@ -108,14 +100,3 @@ Configuration (environment variables):
 - FRONTEND_URL: Base URL for frontend app (defaults to http://localhost:3000).
 
 Note: For development without SendGrid, the server will print the email content to stdout instead of sending.
-
-## License
-
-This project is developed for educational purposes as part of the PES University UE23CS341A curriculum.
-
----
-
-**Course:** UE23CS341A  
-**Institution:** PES University  
-**Academic Year:** 2025  
-**Semester:** 5th Sem
