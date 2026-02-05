@@ -7,7 +7,7 @@ This repository contains the source code and documentation for the "Helping hand
 
 ## 🧑‍💻 Development Team (TRM)
 
-- [@pes1ug23am006-dot](https://github.com/pes1ug23am006-dot) - Scrum Master
+- [@aaryaupadhya12](https://github.com/pes1ug23am006-dot) - Scrum Master
 - [@Anshullmudyavar1](https://github.com/Anshullmudyavar1) - Developer Team
 - [@aaravadarsh18](https://github.com/aaravadarsh18) - Developer Team
 - [@AHaveeshKumar](https://github.com/AHaveeshKumar) - Developer Team
