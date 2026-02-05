@@ -1,14 +1,4 @@
 # "Helping hands" software
-
-**Project ID:** P19  
-**Course:** UE23CS341A  
-**Academic Year:** 2025  
-**Semester:** 5th Sem  
-**Campus:** RR  
-**Branch:** AIML  
-**Section:** A  
-**Team:** TRM
-
 ## 📋 Project Description
 
 At retail stores, management staff offer to work in the stores during very busy times like weekends and holidays. This is an app which faciliitates this initiative
@@ -22,14 +12,6 @@ This repository contains the source code and documentation for the "Helping hand
 - [@aaravadarsh18](https://github.com/aaravadarsh18) - Developer Team
 - [@AHaveeshKumar](https://github.com/AHaveeshKumar) - Developer Team
 
-## 👨‍🏫 Teaching Assistant
-
-- [@jash00007](https://github.com/jash00007)
-- [@nh2seven](https://github.com/nh2seven)
-
-## 👨‍⚖️ Faculty Supervisor
-
-- [@prakasheeralli](https://github.com/prakasheeralli)
 
 
 ## 🚀 Getting Started
