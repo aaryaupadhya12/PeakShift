@@ -112,7 +112,7 @@ npm test
 npm run test:coverage
 ```
 
-## � Shift Notifications (New)
+##  Shift Notifications (New)
 
 This release adds server-side email notifications when a new shift is published.
 
@@ -127,7 +127,7 @@ Configuration (environment variables):
 
 Note: For development without SendGrid, the server will print the email content to stdout instead of sending.
 
-## �📄 License
+## License
 
 This project is developed for educational purposes as part of the PES University UE23CS341A curriculum.
 
