@@ -1,9 +1,9 @@
 # "Helping hands" software
-## 📋 Project Description
+## Project Description
 
 At retail stores, management staff offer to work in the stores during very busy times like weekends and holidays. This is an app which faciliitates this initiative
 
-## 🧑‍💻 Development Team (TRM)
+## Development Team (TRM)
 
 - [@aaryaupadhya12](https://github.com/pes1ug23am006-dot) 
 - [@Anshullmudyavar1](https://github.com/Anshullmudyavar1) 
@@ -12,7 +12,7 @@ At retail stores, management staff offer to work in the stores during very busy 
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.11.0
@@ -34,7 +34,7 @@ At retail stores, management staff offer to work in the stores during very busy 
    npm start 
    ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PESU_RR_AIML_A_P19_Helping_hands_software_TRM/
@@ -46,7 +46,7 @@ PESU_RR_AIML_A_P19_Helping_hands_software_TRM/
 └── ...
 ```
 
-## 🛠️ Development Guidelines
+## Development Guidelines
 
 ### Branching Strategy
 - `main`: Production-ready code
@@ -70,7 +70,7 @@ Follow conventional commit format:
 4. Request review from team members
 5. Merge after approval
 
-## 📚 Documentation
+## Documentation
 
 - [API Documentation](docs/api.md)
 - [User Guide](docs/user-guide.md)
@@ -86,7 +86,7 @@ npm test
 npm run test:coverage
 ```
 
-##  Shift Notifications (New)
+## Shift Notifications (New)
 
 This release adds server-side email notifications when a new shift is published.
 
