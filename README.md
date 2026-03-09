@@ -1,4 +1,4 @@
-# "Helping hands" software
+# "Peak Shift" software
 ## Project Description
 
 At retail stores, management staff offer to work in the stores during very busy times like weekends and holidays. This is an app which faciliitates this initiative
