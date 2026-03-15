@@ -5,7 +5,7 @@ At retail stores, management staff offer to work in the stores during very busy 
 
 ## Development Team (TRM)
 
-- [@aaryaupadhya12](https://github.com/pes1ug23am006-dot) 
+- [@aaryaupadhya12](https://github.com/pes1ug23am006-dot) (Cloned from Instiutational Github , please visitb PES1UG23AM006-bot github for Commmit History)
 - [@Anshullmudyavar1](https://github.com/Anshullmudyavar1) 
 - [@aaravadarsh18](https://github.com/aaravadarsh18) 
 - [@AHaveeshKumar](https://github.com/AHaveeshKumar) 
